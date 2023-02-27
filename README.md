@@ -9,4 +9,4 @@ Snscrape
 OVERVIEW :
 
 Twitter scrapping using snscrape is a python based scraping tool that can be used to extract data from Twitter
-main objectives is users to scrape Twitter data without the need for a Twitter.
+and main objectives is users to scrape Twitter data without the need for a Twitter.

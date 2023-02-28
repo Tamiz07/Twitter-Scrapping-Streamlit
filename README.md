@@ -5,9 +5,20 @@ Link : https://tamiz07-twitter-scrapping-streamlit-app-43fdpq.streamlit.app/
 REQUIRED SKILLS:
 
 Python scripting
-MongoDB
+
 Streamlit
+
 Snscrape
+
+
+REQUIRED PACKAGES:
+
+snscrape
+
+request
+
+streamlit
+
 
 OVERVIEW :
 
